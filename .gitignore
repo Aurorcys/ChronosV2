@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+.AppleDouble
+.LSOverride
+*.localized
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
